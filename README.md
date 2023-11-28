@@ -5,7 +5,7 @@ this is normal, it's due to the map you are changing to being a longer than norm
 online till you get into the lobby with the changed map. You will eventually get in. 
 
 You can watch this video as a example of what the tool does and how it works 
-[NEED VIEO LINK HERE](https://youtu.be/3CzcJjVrCzc)
+https://youtu.be/3CzcJjVrCzc
 
 
 Created By Kewizzle & CabooseSayzWTF
